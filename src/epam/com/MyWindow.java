@@ -1,8 +1,6 @@
 package epam.com;
 
-/**
- * Created by Любовь on 22.02.2016.
- */
+
 public class MyWindow {
 
     private double width;
